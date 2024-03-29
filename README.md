@@ -1,4 +1,4 @@
-<p align="center"><img src="src/main/resources/static/img/logo.png" width="294" height="255"></center>
+<p align="center"><img src="src/main/resources/static/img/logo.png" width="294" height="255"></p>
 
 # 주말농장
 
