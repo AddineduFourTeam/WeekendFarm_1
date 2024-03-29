@@ -14,13 +14,13 @@
 
 ## 3. 시스템 요구 사항
 - 웹 브라우저(권장: 최신 버전의 Chrome, Edge 등)
-- 데이터베이스 시스템 : Oracle
+- 데이터베이스 시스템 : Oracle 21c
 - 프레임워크 : Spring boot
 
 ## 4. 시작하기
 1. 환경 설정 및 설치 : JDK17, IDE(IntelliJ)
 2. 의존성 관리 - Gradle, Spring Data JPA 등
-3. 데이터베이스 설정 : Oracle 데이터베이스를 사용하며, 연결 정보는 application.properties파일에서 관리
+3. 데이터베이스 설정 : Oracle 21c 데이터베이스를 사용하며, 연결 정보는 application.properties파일에서 관리
 4. 스프링 부트 애플리케이션을 실행하여 웹 서버 시작 - [WeekendFarm](http://localhost:1004)
 
 ## 5. 소스 아키텍처
