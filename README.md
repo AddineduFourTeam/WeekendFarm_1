@@ -18,7 +18,6 @@
 - 프레임워크 : Spring boot
 
 ## 4. 시작하기
-프로젝트를 시작하려면 다음 단계를 따르세요:
 1. 환경 설정 및 설치 : JDK17, IDE(IntelliJ)
 2. 의존성 관리 - Gradle, Spring Data JPA 등
 3. 데이터베이스 설정 : Oracle 데이터베이스를 사용하며, 연결 정보는 application.properties파일에서 관리
