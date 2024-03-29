@@ -22,7 +22,7 @@
 1. 환경 설정 및 설치 : JDK17, IDE(IntelliJ)
 2. 의존성 관리 - Gradle, Spring Data JPA 등
 3. 데이터베이스 설정 : Oracle 데이터베이스를 사용하며, 연결 정보는 application.properties파일에서 관리
-4. 스프링 부트 애플리케이션을 실행하여 웹 서버 시작 - [port:1004](http://localhost:1004/list)
+4. 스프링 부트 애플리케이션을 실행하여 웹 서버 시작 - [WeekendFarm](http://localhost:1004)
 
 ## 5. 소스 아키텍처
 [프로젝트의 소스 아키텍처에 대한 간략한 설명을 여기에 제공하세요. 필요에 따라 그림이나 다이어그램을 추가할 수 있습니다.]
