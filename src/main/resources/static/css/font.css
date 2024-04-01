@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo.css');
+@import url('https://webfontworld.github.io/gyeonggi/GyeonggiBatang.css');
+@font-face {
+    font-family: 'NanumSquareNeo';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.eot');
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.eot?#iefix') format('embedded-opentype'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff2') format('woff2'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.woff') format('woff'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-aLt.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumSquareNeo';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.eot');
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.eot?#iefix') format('embedded-opentype'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff2') format('woff2'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.woff') format('woff'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-bRg.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumSquareNeo';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.eot');
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.eot?#iefix') format('embedded-opentype'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff2') format('woff2'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.woff') format('woff'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-cBd.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumSquareNeo';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.eot');
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.eot?#iefix') format('embedded-opentype'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff2') format('woff2'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.woff') format('woff'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-dEb.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'NanumSquareNeo';
+    font-weight: 900;
+    font-style: normal;
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.eot');
+    src: url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.eot?#iefix') format('embedded-opentype'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff2') format('woff2'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.woff') format('woff'),
+    url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo-eHv.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src: url('../fonts/AppleSDGothicNeoL.eot?#iefix') format('embedded-opentype');
+    src: /*url('fonts/AppleSDGothicNeoL.otf?#iefix'),*/
+            url('../fonts/AppleSDGothicNeoL.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoL.woff') format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src: url('../fonts/AppleSDGothicNeoR.eot?#iefix') format('embedded-opentype');
+    src: /*url('fonts/AppleSDGothicNeoR.otf?#iefix'),*/
+            url('../fonts/AppleSDGothicNeoR.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoR.woff') format('woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src: url('../fonts/AppleSDGothicNeoM.eot?#iefix');
+    src: 	/*url('fonts/AppleSDGothicNeoM.otf?#iefix') format('embedded-opentype'),*/
+            url('../fonts/AppleSDGothicNeoM.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoM.woff') format('woff');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src: url('../fonts/AppleSDGothicNeoB.eot?#iefix') format('embedded-opentype');
+    src: /*url('fonts/AppleSDGothicNeoB.otf?#iefix'),*/
+            url('../fonts/AppleSDGothicNeoB.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoB.woff') format('woff');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src:url('../fonts/AppleSDGothicNeoEB.eot?#iefix') format('embedded-opentype');
+    src: /*url('fonts/AppleSDGothicNeoEB.otf?#iefix'),*/
+            url('../fonts/AppleSDGothicNeoEB.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoEB.woff') format('woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'AppleSDGothicNeo';
+    src:url('../fonts/AppleSDGothicNeoH.eot?#iefix') format('embedded-opentype');
+    src: /*url('fonts/AppleSDGothicNeoH.otf?#iefix'),*/
+            url('../fonts/AppleSDGothicNeoH.ttf') format('truetype'),
+            local(※), url('../fonts/AppleSDGothicNeoH.woff') format('woff');
+    font-weight: 800;
+}
